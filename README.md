@@ -147,12 +147,6 @@ associative-memory-plugin/
         └── memory-reminder.sh
 ```
 
-## Related
-
-- [Associative Memory MCP](../rust-memory) - The MCP server
-- [Memory Guide Skill](../.claude/commands/memory-guide.md) - Original standalone skill
-- [Research Papers](skills/memory-concepts/references/research-papers.md) - Academic background
-
 ## License
 
 MIT
