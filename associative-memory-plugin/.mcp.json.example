@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "associative-memory": {
+      "command": "/path/to/associative-memory",
+      "args": ["--mcp"],
+      "env": {}
+    }
+  }
+}

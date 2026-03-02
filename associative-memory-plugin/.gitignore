@@ -1,0 +1,13 @@
+# Local settings (not version controlled)
+.claude/*.local.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

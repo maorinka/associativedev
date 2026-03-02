@@ -1,0 +1,10 @@
+{
+  "name": "associative-memory",
+  "version": "0.1.0",
+  "description": "Comprehensive guide for using associative-memory MCP to build persistent knowledge across Claude Code sessions",
+  "author": {
+    "name": "Maor Hadad",
+    "email": "maor@example.com"
+  },
+  "keywords": ["memory", "knowledge-graph", "provenance", "MCP", "sessions"]
+}
